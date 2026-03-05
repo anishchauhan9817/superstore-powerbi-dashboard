@@ -62,8 +62,9 @@ How to Use :
 3. Use the slicers and filters to interact with the dashboard.  
 
 
-👤 Author: Rishabh Kumar  
+👤 Author: Anish Chauhan  
 💼 Open to Data Analyst opportunities  
 🔗 [LinkedIn Profile](https://www.linkedin.com/feed/) 
+
 
 
